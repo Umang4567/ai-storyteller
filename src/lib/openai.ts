@@ -34,12 +34,12 @@ export class OpenAIService {
           "pages": [
             {
               "pageNumber": 1,
-              "text": "Page 1 story text (2-3 sentences)",
+              "text": "Page 1 story text (4-6 sentences)",
               "imagePrompt": "Detailed description for generating an illustration for this page"
             },
             {
               "pageNumber": 2,
-              "text": "Page 2 story text (2-3 sentences)",
+              "text": "Page 2 story text (4-6 sentences)",
               "imagePrompt": "Detailed description for generating an illustration for this page"
             }
             // ... continue for 5-6 pages
